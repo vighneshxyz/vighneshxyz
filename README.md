@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL,Python**
+- 💬 Ask me about **SQL,Python,Web devlopment**
 
 - 📫 How to reach me **guptavighnesh2003@gmail.com**
 
